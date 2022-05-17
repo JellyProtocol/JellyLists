@@ -1,0 +1,29 @@
+{
+    "merkleRoot": "0xbab1d781e4d92a4d134fe04665fdffed13592215f76d586455ee106f164e0f37",
+    "tokenTotal": "0xa2a15d09519be00000",
+    "claims": {
+        "0xDB5cF1b27Af7ab1e688DE96C5188888054474Cf2": {
+            "index": 0,
+            "amount": "0x3635c9adc5dea00000",
+            "proof": [
+                "0x61796ffede48c9a435f46f921c8b8c92da6e56ba2c11e45cd00f9c8b7a5ca904",
+                "0xebc5f4bb1b9a612232a626e27d9279c24ff421c8321b71c4338f775c51e9c859"
+            ]
+        },
+        "0x3Aa6b227CaF99f953EC76c321A60DF6731f5f1d8": {
+            "index": 1,
+            "amount": "0x3635c9adc5dea00000",
+            "proof": [
+                "0x3c15ccee6b0e3386a1bb37602851d4182b9123e57fac7e9907b416fcf84e9461",
+                "0xebc5f4bb1b9a612232a626e27d9279c24ff421c8321b71c4338f775c51e9c859"
+            ]
+        },
+        "0x31a18762370618cEeD3E9E89d22DE5f910E3ef04": {
+            "index": 2,
+            "amount": "0x3635c9adc5dea00000",
+            "proof": [
+                "0x255c95792aa2f2122f10ae5d04b155a5605b0d1fce94436742eaa453a3e3062e"
+            ]
+        }
+    }
+}
